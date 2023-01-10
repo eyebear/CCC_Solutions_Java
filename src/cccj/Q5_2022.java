@@ -1,7 +1,9 @@
 package cccj;
 
 import java.util.Scanner;
-
+/**
+ * Question name: Square Pool
+ * */
 public class Q5_2022 {
 	public void solve(){
 		Scanner scr = new Scanner(System.in);
