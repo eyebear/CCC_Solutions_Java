@@ -12,7 +12,7 @@ public class Q5_2022 {
 //		for(int i=0; i<dimension; i++) {
 //			for(int j=0; j<dimension; j++) {
 //				map[i][j]="N";
-//			}
+//			} 
 //		}
 		int treeCount = scr.nextInt();
 		String[][] trees = new String[treeCount][];
