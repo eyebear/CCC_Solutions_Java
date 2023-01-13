@@ -27,3 +27,4 @@ public class Q2_2022 {
 		System.out.println(won);
 	}
 }
+ 
