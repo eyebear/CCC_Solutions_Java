@@ -14,7 +14,7 @@ public class Main {
 		Q5_2022 q5 = new Q5_2022();
 //		Q5_2021 q5 = new Q5_2021();
 //		Q5_2018 q5 = new Q5_2018();
-//		Q5_2012 q5 = new Q5_2012();
+//		Q5_2012 q5 = new Q5_2012( );
 		q5.solve();
 	}
 
